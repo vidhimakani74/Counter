@@ -19,7 +19,7 @@ btns.forEach((btn) => {
     } else if (num < 0) {
       value.style.color = "red";
     } else {
-      value.style.color = "black";
+      value.style.color = "gray";
     }
   });
 });
